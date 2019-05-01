@@ -13,11 +13,14 @@
   float: right;
 }
 
+/* heading */
 .heading {
   margin-left: 1.5em;
 }
 
+/* banner Image */
 .image {
+  width: 98%;
   text-align: center;
 }
 
@@ -38,6 +41,11 @@
   border-radius: 5px;
   justify-content: space-around;
   padding: 1em;
+}
+
+/* CardImage */
+.cardImage {
+  width: 10em;
 }
 
 .format {
